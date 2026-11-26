@@ -1,110 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Kohinoor%20Singh&fontSize=60&fontColor=39FF14&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kohinoor&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20%26%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Kohinoor, Frontend and MERN Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kohinoor+%F0%9F%91%8B;Web+Developer+%7C+HTML+%7C+CSS+%7C+JS;Currently+Learning+MERN+Stack;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+<a href="https://github.com/kohinoorsingh0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Currently+building+FixFlow;Learning+and+building+in+public" alt="Typing animation" />
+</a>
 
-<br/>
+<br />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://kohinoorsingh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=netlify&logoColor=38BDF8" alt="Portfolio" /></a>
+<a href="https://github.com/kohinoorsingh0"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=kohinoorsingh0&style=for-the-badge&color=0ea5e9&label=VIEWS" alt="Profile views" />
 
 </div>
 
-<br/>
+## 👨‍💻 About Me
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Kohinoor Singh
-role: Web Developer
-currently_learning: MERN Stack (MongoDB, Express, React, Node.js)
-focus: Frontend fundamentals -> Full Stack Development
-fun_fact: "Debugging is just being a detective in a crime movie where you are also the murderer 🕵️"
+```ts
+const kohinoor = {
+  role: "Frontend / Full-Stack Developer",
+  education: "BCA Student",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  building: "FixFlow",
+  openTo: "Thoughtful teams and useful engineering work",
+};
 ```
-
-- 🔭 I'm currently sharpening my **HTML, CSS & JavaScript** skills
-- 🌱 I'm currently learning the **MERN Stack**
-- 👯 I'm open to collaborating on beginner-friendly web dev projects
-- 💬 Ask me about HTML/CSS/JS basics and front-end problem solving
-- ⚡ Fun fact: I love turning small ideas into working web pages!
-
-<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,git,github,vscode,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,express,mongodb,git,github&perline=5" alt="TypeScript, JavaScript, HTML, CSS, React, Node.js, Express, MongoDB, Git, GitHub" />
 </div>
 
-<br/>
+## 🚀 Featured Projects
+
+| Project | About | Built with |
+| :-- | :-- | :-- |
+| [**Portfolio Website**](https://github.com/kohinoorsingh0/Portfolio-Website) | My personal portfolio, built from scratch | HTML · CSS · JavaScript |
+| [**College Website**](https://github.com/kohinoorsingh0/CollegeWebsite) | Website for Pandit Chiranji Lal Govt. College | HTML |
+| [**Recipe App**](https://github.com/kohinoorsingh0/RecipeApp) | A recipe application | JavaScript |
+| [**LeetCode**](https://github.com/kohinoorsingh0/Leet-Code) | My problem-solving practice | JavaScript |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kohinoorsingh0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=ff00ff&text_color=ffffff&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kohinoorsingh0&theme=radical&hide_border=true&background=0d1117&stroke=39FF14&ring=ff00ff&fire=39FF14&currStreakLabel=39FF14" width="48%" />
+<img src="https://streak-stats.demolab.com?user=kohinoorsingh0&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kohinoorsingh0&theme=tokyonight" width="40%" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kohinoorsingh0&theme=tokyonight" width="40%" alt="Languages by repository" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kohinoorsingh0&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
 
 </div>
-
-<br/>
-
-## 🥧 Language Distribution
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohinoorsingh0&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=ffffff&langs_count=8" width="60%" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kohinoorsingh0&theme=react-dark&bg_color=0d1117&color=39FF14&line=ff00ff&point=ffffff&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kohinoorsingh0&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kohinoorsingh0/kohinoorsingh0/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-> ⚠️ The snake animation needs a one-time GitHub Action setup — see setup notes below.
-
-<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kohinoorsingh0&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS)
+### 🤝 Let's build something together
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="" />
 
 </div>
-
-<!--
-**kohinoorsingh0/kohinoorsingh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
