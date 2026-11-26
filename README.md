@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kohinoor&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20%26%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Kohinoor, Frontend and MERN Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kohinoor&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20and%20MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Kohinoor, Frontend and MERN Stack Developer" />
 
 <a href="https://github.com/kohinoorsingh0">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Currently+building+FixFlow;Learning+and+building+in+public" alt="Typing animation" />
